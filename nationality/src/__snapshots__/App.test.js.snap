@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="App"
+>
+  <div>
+    <input
+      onChange={[Function]}
+      value=""
+    />
+    <button
+      onClick={[Function]}
+    >
+      Calculate
+    </button>
+    <h3>
+      Nationality, 
+    </h3>
+    <h3>
+      Probability, 
+    </h3>
+  </div>
+</div>
+`;
